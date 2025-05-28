@@ -1,0 +1,14 @@
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.AssemblyInfoInputs.cache
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.AssemblyInfo.cs
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\bin\Debug\net6.0\TokenManager.exe
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\bin\Debug\net6.0\TokenManager.deps.json
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\bin\Debug\net6.0\TokenManager.runtimeconfig.json
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\bin\Debug\net6.0\TokenManager.dll
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\bin\Debug\net6.0\TokenManager.pdb
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.dll
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\refint\TokenManager.dll
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.pdb
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\TokenManager.genruntimeconfig.cache
+C:\Users\FURKAN BAYRAM\source\repos\TokenManager\TokenManager\obj\Debug\net6.0\ref\TokenManager.dll
